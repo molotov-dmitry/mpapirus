@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=mPapirus
+Comment=Papirus icon theme with modern rabbitvcs emblems
+Inherits=Papirus
+
+Example=folder
+
+FollowsColorScheme=true
+
+# Directory list
+Directories=scalable/emblems
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+

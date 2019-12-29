@@ -1,0 +1,6 @@
+<svg height="256" width="256">
+  <path fill="#FF9800" d="M50 256 l 75 -125  l 75 125"/>
+  <circle cx="125" cy="236" r="6" fill="white"/>
+  <rect x="120" y="172" width="10" height="50" fill="white"/>
+</svg>
+
